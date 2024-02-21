@@ -1,0 +1,5 @@
+#Result of using ELSE IF
+![alt text](elseif.png)
+![alt text](elseif1.png)
+#Reulst of exercise Bus using for and IF ELSE
+ ![alt text](exercise_ELSEIF.png)
